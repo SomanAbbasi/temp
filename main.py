@@ -1,5 +1,9 @@
 
-print("Hello, World!")
-print("This is a test .")
-print("Version 2")
-print("git stash ")
+
+password = "123456"
+
+def divide(a, b):
+    return a / b
+
+print(divide(5,0))
+
